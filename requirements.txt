@@ -1,0 +1,5 @@
+ipython==5.5.0
+voila==0.3.6
+ipywidgets==7.6.5
+czapi==0.1.5
+pandas==1.5.3
